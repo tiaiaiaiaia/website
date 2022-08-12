@@ -1,0 +1,17 @@
+h1 {
+    color:  #dda2b1;
+  }
+  
+  h2 {
+    color: #d1a4e5;
+  }
+  
+  h3 {
+    color: #fe966f;
+  }
+  
+  img {
+    display: block;
+    margin-left: 100px;
+  /*   margin-right: auto; */
+  }
